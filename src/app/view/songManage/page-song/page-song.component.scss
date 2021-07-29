@@ -1,0 +1,30 @@
+.column {
+  float: left;
+  width: 33.3%;
+  padding: 10px 10px;
+}
+.card {
+  box-shadow: 12px 12px 2px 1px rgba(19,18,255,0.94);
+  //padding: 50px;
+  text-align: center;
+  background-color: rgba(178,255,121,0.94);
+}
+div.card {
+  padding: 10px;
+}
+.img {
+  border-top-left-radius: 8% 8%;
+  border-top-right-radius: 8% 8%;
+  border-bottom-left-radius: 8% 8%;
+  border-bottom-right-radius: 8% 8%;
+}
+//@media screen and (min-width: 601px){
+//  div.card {
+//    font-size: 20px;
+//  }
+//}
+//@media screen and(max-width: 600px){
+//  div.card {
+//    font-size: 10px;
+//  }
+//}
